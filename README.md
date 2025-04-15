@@ -30,18 +30,18 @@ The app uses a single shared AsyncStorage key for tasks and handles all operatio
 
 🚀 Setup Instructions
 1. Clone the Repository
-https://github.com/your-username/todo-manager-basic.git
-cd todo-manager-basic
+   https://github.com/saharanji/ToDo_App
+cd ToDo_App
 
-2. Install Dependencies
+3. Install Dependencies
 npm install
 
-3. Install Required Packages
+4. Install Required Packages
 npm install @react-native-async-storage/async-storage
 npm install @react-navigation/native @react-navigation/stack
 npx expo install react-native-screens react-native-safe-area-context
 
-4. Start the App
+5. Start the App
 npm start
 
 Scan the QR code using the Expo Go app on your mobile device.
